@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Gradiente_sem_nome_26);
+      }
+
+      .st1 {
+        fill: url(#Gradiente_sem_nome_34);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_26" data-name="Gradiente sem nome 26" x1="42.46" y1="498.02" x2="736.65" y2="498.02" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b4fd6"/>
+      <stop offset="1" stop-color="#ddd6f5"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_34" data-name="Gradiente sem nome 34" x1="515.62" y1="577.7" x2="957.54" y2="577.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b4fd6"/>
+      <stop offset=".47" stop-color="#9ae62e"/>
+    </linearGradient>
+  </defs>
+  <path class="st0" d="M45.54,454.87c17.39-139.55,112.02-252.8,237.19-292.55,143.05-45.41,289.42-1.04,383.99,114.85-32.94,34.6-64.4,66.3-98.69,98.44-48.11-60.16-106.8-90.7-175.37-90.82-68.58-.12-133.04,33.49-173.53,91.43-73.12,104.46-43.63,245.98,62.43,314.86,58.44,37.97,127.14,27.04,174.76-22.86l98.99-103.72-27.96-40.68-.06.06,209.35-63.66-36.01,220.48-42.89-26.61c-.74-.49-1.66-.74-2.52-.61-5.47.86-14.38,6.94-18.25,11.18-44.3,48.97-85.17,98.44-138.2,138.2-102,76.44-241.12,58.13-333.29-25.32-92.23-83.51-135.43-198.72-119.95-322.66"/>
+  <path class="st1" d="M641.53,712.83c56.29,15.42,106.24-1.29,142.19-42.34,35.95-41.05,50.2-93.22,32.01-146.74-13.95-41.11-59.6-104.4-111.53-90.14l-188.58,51.68,153.13-156.69c65.07-66.55,172.05-2.4,218.76,51.86,95.12,110.55,92.97,275.29-4.12,382.51-86.4,95.37-222.99,123.7-338.64,52.11l96.78-102.19v-.06Z"/>
+</svg>
